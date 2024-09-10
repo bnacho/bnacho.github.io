@@ -19,11 +19,11 @@ locale                   : "en-US"
 future                   : true
 published                : true
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "CodeLog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Mose Kim"
+description              : "수업 시간에 배운 것을 기록하는 블로그입니다."
 url                      : "https://bnacho.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,11 +115,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mose Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Tech University of Korea"
+  email            : "mose712@tukorea.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
