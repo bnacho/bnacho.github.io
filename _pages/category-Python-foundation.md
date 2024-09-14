@@ -1,7 +1,7 @@
 ---
 title: "Python-foundation"
 layout: archive
-permalink: /Python-foundation
+permalink: /foundation
 ---
 
 
