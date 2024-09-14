@@ -15,7 +15,7 @@ sidebar-category:
   - title: "카테고리"
     children:
       - title: "Python-foundation"
-        url: "/Python-foundation"
+        url: "/foundation"
       - title: "Numpy"
         url:  "/Numpy"
       - title: "Pandas"
