@@ -1,7 +1,7 @@
 ---
-title: "blog"
+title: "파이썬 기초"
 layout: archive
-permalink: /blog
+permalink: /python-foundation
 ---
 
 
