@@ -1,7 +1,7 @@
 ---
-title: "파이썬 기초"
+title: "Python-foundation"
 layout: archive
-permalink: /python-foundation
+permalink: /Python-foundation
 ---
 
 
