@@ -1,7 +1,7 @@
 # main links
-main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+# main:
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "Programming"
+        url: "/blog"
+      - title: "파이썬 기초"
+        url:  "/CategoryB"
+      - title: "넘파이"
+        url:  "/CategoryC"
