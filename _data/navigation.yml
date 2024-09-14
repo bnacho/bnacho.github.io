@@ -17,6 +17,6 @@
       - title: "Programming"
         url: "/blog"
       - title: "파이썬 기초"
-        url:  "/CategoryB"
+        url:  "categories/python-foundation"
       - title: "넘파이"
-        url:  "/CategoryC"
+        url:  "categories/numpy"
