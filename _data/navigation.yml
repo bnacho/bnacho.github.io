@@ -27,7 +27,8 @@ sidebar-category:
       - title: "판다스"
         url:  "/Pandas"
         
-- title: "University"
+sidebar-category:        
+  - title: "University"
     children:
       - title: "확률 및 통계"
         url: "/PAS"
