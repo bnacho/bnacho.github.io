@@ -18,7 +18,7 @@ main:
   #   url: /sitemap/
 
 sidebar-category: 
-  - title: "카테고리"
+  - title: "AI"
     children:
       - title: "파이썬 기초"
         url: "/foundation"
@@ -26,3 +26,12 @@ sidebar-category:
         url:  "/Numpy"
       - title: "판다스"
         url:  "/Pandas"
+        
+- title: "University"
+    children:
+      - title: "확률 및 통계"
+        url: "/PAS"
+      - title: "빅데이터"
+        url:  "/Bigdata"
+      #- title: "판다스"
+       # url:  "/Pandas"
