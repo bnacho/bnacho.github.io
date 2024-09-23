@@ -26,13 +26,8 @@ sidebar-category:
         url:  "/Numpy"
       - title: "판다스"
         url:  "/Pandas"
-        
-sidebar-category:        
-  - title: "University"
-    children:
       - title: "확률 및 통계"
         url: "/PAS"
       - title: "빅데이터"
         url:  "/Bigdata"
-      #- title: "판다스"
-       # url:  "/Pandas"
+        
