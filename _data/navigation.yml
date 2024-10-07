@@ -30,4 +30,6 @@ sidebar-category:
         url: "/PAS"
       - title: "빅데이터"
         url:  "/Bigdata"
+      - title: "머신러닝"
+        url:  "/ML"
         
