@@ -1,3 +1,8 @@
+---
+title:  "[머신러닝]RandomForest"
+categories:
+  - ML
+---  
 # 랜덤포레스트란?(RandomForest)
 - 기존에 의사결정나무는 뿌리노드를 잘못 잡으면 결과가 이상해졌다.
 - 또한 과적합 등의 문제가 많이 일어났다.
@@ -492,15 +497,9 @@ mglearn.discrete_scatter(X[:,0], X[:,1], y)
 
 
 
-    [<matplotlib.lines.Line2D at 0x1f8039342c0>,
-     <matplotlib.lines.Line2D at 0x1f803934590>,
-     <matplotlib.lines.Line2D at 0x1f803934860>]
-
-
-
 
     
-![png](output_8_1.png)
+![output_8_1](https://github.com/user-attachments/assets/98941d99-2254-4d4e-9532-ed4b83952251)
     
 
 
@@ -998,6 +997,6 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![output_16_0](https://github.com/user-attachments/assets/c954c69b-2535-456d-a490-a95824a15207)
     
 
