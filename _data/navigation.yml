@@ -32,4 +32,6 @@ sidebar-category:
         url:  "/Bigdata"
       - title: "머신러닝"
         url:  "/ML"
+      - title: "자료구조"
+        url:  "/DS"
         
